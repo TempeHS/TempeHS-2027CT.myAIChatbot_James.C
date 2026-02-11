@@ -1,6 +1,5 @@
-# Project Title
+# Gleb AI
 
-Gleb AI
 
 ## Description
 
